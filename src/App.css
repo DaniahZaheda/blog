@@ -1,0 +1,41 @@
+.blog-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.blog-title {
+  text-align: center;
+  font-size: 2rem;
+  color: #333;
+}
+
+.blog-list {
+  list-style: none;
+  padding: 0;
+}
+
+.blog-item {
+  background: white;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.blog-post-title {
+  font-size: 1.5rem;
+  color: #007bff;
+}
+
+.blog-post-body {
+  font-size: 1rem;
+  color: #555;
+}
+
+.error-message {
+  color: red;
+  text-align: center;
+}
